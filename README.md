@@ -1,1 +1,1 @@
-Pattern recognizing game based n JavaScript .
+Pattern recognizing game based on JavaScript .
